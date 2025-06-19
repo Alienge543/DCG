@@ -1,0 +1,72 @@
+{
+  "Annual Crop Land": [
+    "A centered satellite image of annual crop land typically shows vast green fields with occasional patches of brown or yellow, depending on the crop growth stage.",
+    "The surface appears highly regular, with parallel rows or grid-like textures due to mechanized planting patterns.",
+    "The land is divided into clearly demarcated rectangular or irregular-shaped plots, often separated by roads or hedgerows.",
+    "Small farmhouses, irrigation systems, or machinery paths can be spotted near the edges of cultivated zones.",
+    "These crop fields are usually surrounded by sparse tree lines, dirt roads, or occasionally adjacent to natural vegetation or pasture land."
+  ],
+  "Forest": [
+    "A centered satellite image of a forest typically appears as a deep green or dark green area, sometimes mixed with lighter shades depending on tree species and density.",
+    "The surface has a dense, uneven texture with a natural, irregular pattern and minimal visible bare earth.",
+    "Forested regions often form large contiguous blocks or irregular patches, with natural, curving edges unlike the geometric shapes of farmlands.",
+    "In hilly or mountainous areas, forests show visible shadow gradients and canopy cover following terrain contours.",
+    "Forests are often bordered by rivers, grasslands, or agricultural land, creating high-contrast boundaries in the satellite imagery."
+  ],
+  "Herbaceous Vegetation Land": [
+    "A centered satellite image of herbaceous vegetation land typically appears as a light green or yellowish-green area with a fine, consistent texture.",
+    "The vegetation cover is low and sparse, creating a relatively smooth visual surface compared to forests or croplands.",
+    "The land patches are usually irregular in shape and may include open grassy areas, shrubs, or seasonal ground cover.",
+    "This land type often appears on flat terrain or gently sloping areas, without sharp elevation changes visible from above.",
+    "Herbaceous vegetation land is usually found adjacent to forest edges, pasture areas, or barren land, creating soft boundaries in satellite imagery."
+  ],
+  "Highway or Road": [
+    "A centered satellite image of a highway or road typically shows long, narrow linear features that appear in dark gray, black, or white tones depending on the surface material.",
+    "Highways and roads exhibit strong geometric continuity, often running straight or gently curving across the landscape with clear directionality.",
+    "These linear structures contrast sharply with natural surroundings such as green vegetation or brown soil, making them visually distinctive.",
+    "Road networks can form grids, intersections, or branching paths and are often accompanied by vehicles, lane markings, or roadside barriers.",
+    "Highways are usually bordered by bare ground, grass strips, or urban infrastructure, creating high-contrast boundaries easily detected from space."
+  ],
+  "Industrial Buildings": [
+    "A centered satellite image of industrial buildings typically shows large rectangular or square-shaped structures with flat roofs, often gray, white, or metallic in color.",
+    "These buildings are usually arranged in clusters with visible access roads, parking lots, and loading zones surrounding them.",
+    "The layout of industrial areas is often highly organized, forming grids or blocks separated by wide paved streets or fences.",
+    "Industrial rooftops often feature ventilation units, skylights, or solar panels, which may appear as small repeating patterns.",
+    "Industrial zones are typically located near transportation infrastructure such as highways or railways, and are visually distinct from residential or natural areas."
+  ],
+  "Pasture Land": [
+    "A centered satellite image of pasture land typically shows large open green fields with relatively uniform vegetation and soft texture.",
+    "The land may be divided into irregularly shaped plots by fences, dirt paths, or hedgerows, which can appear as thin lines from above.",
+    "Patches of bare soil or trampled earth may be visible in areas of frequent animal movement, especially near water sources or shelters.",
+    "In some regions, scattered livestock such as cows or sheep may appear as small dark spots dotting the green surface.",
+    "Pasture land is often located adjacent to farmland, forest, or rural infrastructure, with low-contrast natural boundaries."
+  ],
+  "Permanent Crop Land": [
+    "A centered satellite image of permanent crop land typically shows evenly spaced vegetation rows forming regular patterns, often in shades of green or brown.",
+    "These areas often appear as neatly organized grids or concentric circles, depending on the irrigation method used (e.g., center pivot systems).",
+    "The land may contain orchards, vineyards, or plantations, with visible gaps between planting lines indicating consistent planting structure.",
+    "Color variations across the fields may indicate different crop species, seasonal stages, or maintenance zones.",
+    "Permanent crop lands are usually adjacent to farm roads, irrigation channels, or small service buildings, offering structured visual context."
+  ],
+  "Residential Buildings": [
+    "A centered satellite image of residential buildings typically shows clusters of small rectangular or square-shaped rooftops arranged in a grid or semi-grid pattern.",
+    "The rooftops are usually light-colored (white, gray, red, or brown), and separated by narrow roads, driveways, or small yards.",
+    "Residential areas often contain green patches such as gardens, trees, or parks interspersed between the houses.",
+    "The layout may include a mix of single-family homes, low-rise apartments, and community buildings, resulting in moderate building density.",
+    "These zones are generally located near roads and exhibit a structured but varied pattern compared to more uniform industrial or agricultural areas."
+  ],
+  "River": [
+    "A centered satellite image of a river typically shows a long, winding blue or green line cutting through the landscape, often with curving or meandering paths.",
+    "The riverbanks are usually bordered by vegetation, forming soft green edges that contrast with the water body.",
+    "Tributaries or branching streams may be visible, especially near deltas or junctions, forming complex, tree-like patterns.",
+    "Wider rivers appear as smooth, dark surfaces, while narrow sections may show turbulent textures or reflections depending on sun angle.",
+    "Rivers often flow through or near forest, farmland, or urban areas, creating a natural linear feature that connects diverse land types."
+  ],
+  "Sea or Lake": [
+    "A centered satellite image of a sea or lake typically shows a large, continuous body of water in blue, dark green, or turquoise tones depending on depth and clarity.",
+    "The water body is often irregularly shaped with curved or jagged shorelines that may include beaches, peninsulas, or inlets.",
+    "The surface appears smooth and homogeneous, though lighter patches may indicate shallow regions or wave activity near the edges.",
+    "Small islands, boats, or docks may appear as bright or dark specks within or around the water area, adding high-contrast details.",
+    "Sea and lake environments are usually bordered by natural vegetation, rocky coastlines, or human infrastructure like harbors or buildings."
+  ]
+}
