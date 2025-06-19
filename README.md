@@ -48,7 +48,7 @@ pip install setuptools==59.5.0
 
 ## Dataset
 
-Please follow the [CoOp](https://github.com/KaiyangZhou/CoOp/blob/main/DATASETS.md) repo to prepare the datasets. Set your data directory in the `scripts/base2new_train_coprompt.sh` and `scripts/base2new_train_coprompt.sh` file.
+Please follow the [CoOp](https://github.com/KaiyangZhou/CoOp/blob/main/DATASETS.md) repo to prepare the datasets. Set your data directory in the `scripts/base2new_train_DCG.sh` and `scripts/base2new_train_DCG.sh` file.
 
 ## Running the experiments
 
@@ -68,7 +68,7 @@ do
 done
 ```
 
-                                                                                                                         |   84.00   | **77.23**  | **80.48** |
+                                        
 
 ## Acknowledgements
 
