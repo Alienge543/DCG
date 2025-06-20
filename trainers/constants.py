@@ -44,7 +44,7 @@ def get_dataset_specified_config(dataset):
             "TRAINER.DCG.N_CTX_V": 4,
             "TRAINER.W": 4.0,
             "OPTIM.MAX_EPOCH": 20,
-            "TRAINER.DISTILL_W1": 1000.,
+            "TRAINER.DISTILL_W1": 20.,
             "TRAINER.DISTILL_W2": 0.15,
             
         },
